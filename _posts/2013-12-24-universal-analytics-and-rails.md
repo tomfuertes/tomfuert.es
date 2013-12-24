@@ -1,8 +1,21 @@
 ---
 layout: post
-title:  "Universal Analytics and Rails"
+title:  "Google/Universal Analytics and Rails"
 date:   2013-12-24 10:52:20
 <!-- categories: analytics -->
 ---
 
-{% gist tomfuertes/65ab92733d5de3fc042c %}
+## Google Analytics
+
+{% gist tomfuertes/65ab92733d5de3fc042c ga.js %}
+
+[![screenshot of page types in Google Analytics][ga]][ga]
+
+## Universal Analytics
+
+{% gist tomfuertes/65ab92733d5de3fc042c analytics.js %}
+
+[![screenshot of page types in Google Analytics][ua]][ua]
+
+[ga]: /images/ga-custom-var-page-type.png
+[ua]: /images/ua-custom-var-page-type.png
