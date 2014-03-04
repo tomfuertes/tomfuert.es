@@ -8,7 +8,7 @@ date:   2013-12-24 10:52:20
 ## Quick Post
 
 If you're using Google Analytics or Universal Analytics, you should send the
-contoller and action back. It lets you do some pretty crazy report pivoting
+`contoller` and `action`. It lets you do some pretty crazy report pivoting
 without having to teach everyone regular expressions.
 
 ## Google Analytics
