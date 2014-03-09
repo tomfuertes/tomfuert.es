@@ -6,7 +6,7 @@ date:   2014-01-15 10:52:20
 
 We have auto deploys setup on semaphore. Just dropped in the following to our build steps:
 
-`heroku config:set COMMIT_HASH=`git rev-parse $BRANCH_NAME` -a senioradvisor-staging`
+```heroku config:set COMMIT_HASH=`git rev-parse $BRANCH_NAME` -a senioradvisor-staging```
 
 ```haml
 -if !Rails.env.production? && defined? COMMIT_HASH
