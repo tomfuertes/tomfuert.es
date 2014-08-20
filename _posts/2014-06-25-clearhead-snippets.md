@@ -5,6 +5,8 @@ date:   2014-06-25 11:00:00
 <!-- categories: open-source -->
 ---
 
+<small>xpost from [clearhead.me](http://clearhead.me/post/89886921415/new-public-repo-clearhead-snippets)</small>
+
 Why Hello! I'm Tom Fuertes, the "new" Director of Engineering at Clearhead. Nice to meet you!  I'm using my intro to the company post to announce a new public repo of snippets and patterns we use often here at Clearhead. 
 
 ## clearhead-snippets: A collection of experiment helper functions.
@@ -23,4 +25,3 @@ If you're a front-end engineer interested in AB testing, please use the [Contact
 
 -Tom
 
--- xpost from [clearhead.me](http://clearhead.me/post/89886921415/new-public-repo-clearhead-snippets)

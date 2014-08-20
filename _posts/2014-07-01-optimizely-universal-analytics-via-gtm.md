@@ -5,6 +5,8 @@ date:   2014-07-01 11:00:00
 <!-- categories: analytics -->
 ---
 
+<small>xpost from [clearhead.me](http://clearhead.me/post/90510916375/optimizely-universal-analytics-via-gtm)</small>
+
 If you've done any sort of custom configuration to your Universal Analytics Tag in Google Tag Manager, [@nicholasblexrud's](https://twitter.com/nicholasblexrud) pattern in "[Add Optimizely with Universal Analytics via Tag Manager](http://www.swellpath.com/2014/04/integrating-optimizely-google-analytics-via-google-tag-manager/)" will leave you - like a ball kicked to Tim Howard - blocked.
 
 Not to fear! Clearhead's office is streaming the world cup, so we've turned off the billable clock and are writing blog posts in between the action. Should be just time enough to photoblog our Optimizely GTM Integration process…
@@ -34,5 +36,3 @@ Now it's just a matter of currying the user's metadata into the global variables
 Obviously lots of moving parts here! If you're a dev or analyst reading this, we're hiring and/or hire-able as help!
 
 -Tom
-
--- xpost from [clearhead.me](http://clearhead.me/post/90510916375/optimizely-universal-analytics-via-gtm)
